@@ -1,0 +1,14 @@
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\bin\Debug\net7.0\BranchedAndLoops.exe
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\bin\Debug\net7.0\BranchedAndLoops.deps.json
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\bin\Debug\net7.0\BranchedAndLoops.runtimeconfig.json
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\bin\Debug\net7.0\BranchedAndLoops.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\bin\Debug\net7.0\BranchedAndLoops.pdb
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.AssemblyInfoInputs.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.AssemblyInfo.cs
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\refint\BranchedAndLoops.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.pdb
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\BranchedAndLoops.genruntimeconfig.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\branches-tutorial\obj\Debug\net7.0\ref\BranchedAndLoops.dll

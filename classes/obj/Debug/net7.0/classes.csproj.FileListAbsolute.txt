@@ -1,0 +1,14 @@
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.AssemblyInfoInputs.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.AssemblyInfo.cs
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\bin\Debug\net7.0\classes.exe
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\bin\Debug\net7.0\classes.deps.json
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\bin\Debug\net7.0\classes.runtimeconfig.json
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\bin\Debug\net7.0\classes.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\bin\Debug\net7.0\classes.pdb
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\refint\classes.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.pdb
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\classes.genruntimeconfig.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-INTRO\classes\obj\Debug\net7.0\ref\classes.dll
